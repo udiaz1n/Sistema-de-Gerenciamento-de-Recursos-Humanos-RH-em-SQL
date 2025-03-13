@@ -69,3 +69,12 @@ Observações:
 Este projeto é uma demonstração prática de conceitos avançados de SQL e pode ser adaptado e expandido para atender a necessidades específicas de gerenciamento de RH.
 
 
+Autor:
+
+David Dias
+
+Contato:
+
+Github: udiaz1n
+
+LinkedIn: https://www.linkedin.com/in/david-dias1/
